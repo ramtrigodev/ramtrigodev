@@ -14,8 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/">
+        <img src="./img/go-flat.svg" width="48" height="48"  />
+      </a>
+      <br>C#
+    </td>
+  </tr>
+</table>
+  
 <div>
 <a href="https://github.com/ramtrigodev">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramtrigodev&layout=compact&langs_count=7&theme=dracula"/>
