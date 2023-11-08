@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   <tr>
     <td align="center" width="96">
       <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/">
-        <img src="./img/go-flat.svg" width="48" height="48"  />
+        <img src="./img/logoc.png" width="48" height="48"  />
       </a>
       <br>C#
     </td>
