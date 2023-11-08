@@ -20,7 +20,6 @@ Here are some ideas to get you started:
       <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/">
         <img src="./img/logoc.png" width="48" height="48"  />
       </a>
-      <br>C#
     </td>
   </tr>
 </table>
