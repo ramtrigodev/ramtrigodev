@@ -21,6 +21,13 @@ Here are some ideas to get you started:
         <img src="./img/logoc.png" width="48" height="48"  />
       </a>
     </td>
+     <td align="center" width="96">
+      <a href="https://www.php.net/images/logos/php-logo-white.svg">
+        <img src="https://www.php.net/images/logos/php-logo-white.svg" width="48" height="48"  />
+      </a>
+    </td>
+
+  
   </tr>
 </table>
   
