@@ -1,5 +1,6 @@
-### Hi there 👋
+### Docente em Instituição de Ensino na área da tecnologia  👋
 
+Conhecimentos em tecnologias Back End e Front End.
 <!--
 **ramtrigodev/ramtrigodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
